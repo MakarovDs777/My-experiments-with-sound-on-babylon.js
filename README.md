@@ -15,3 +15,7 @@
 Мой аудиоредактор.
 
 [My AudioEditor on Babylon.js | Babylon.js Playground](https://playground.babylonjs.com/#J4BPMN)
+
+Сделаем аудио из предустанволенного текста ауидо.
+
+[Audio player with preset audio | Babylon.js Playground](https://playground.babylonjs.com/#RP00JJ)
