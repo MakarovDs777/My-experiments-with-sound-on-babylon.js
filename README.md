@@ -11,3 +11,7 @@
 Версия с фанерой активации многоканальная версия аудио. 
 
 [Plywood of activations streaming version | Babylon.js Playground](https://playground.babylonjs.com/#N9BNAP)
+
+Мой аудиоредактор.
+
+[My AudioEditor on Babylon.js | Babylon.js Playground](https://playground.babylonjs.com/#J4BPMN)
