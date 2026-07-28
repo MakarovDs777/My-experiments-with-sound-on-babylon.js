@@ -14,7 +14,7 @@
 
 Теперь добавим RLE для сжатия аудио.
 
-[Audio player RLE version with preset audio | Babylon.js Playground](https://playground.babylonjs.com/#UIMHCN)
+[Audio player RLE version with preset audio | Babylon.js Playground](https://playground.babylonjs.com/#UIMHCN#1)
 
 Версия с фанерой активации многоканальная версия аудио. 
 
