@@ -8,6 +8,14 @@
 
 [The sound of numbers to audio and audio to numbers on Babylon.js | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#L9N3S7#6)
 
+Сделаем аудио из предустановленного текста аудио.
+
+[Audio player with preset audio | Babylon.js Playground](https://playground.babylonjs.com/#RP00JJ)
+
+Теперь добавим RLE для сжатия аудио.
+
+[Audio player RLE version with preset audio | Babylon.js Playground](https://playground.babylonjs.com/#UIMHCN)
+
 Версия с фанерой активации многоканальная версия аудио. 
 
 [Plywood of activations streaming version | Babylon.js Playground](https://playground.babylonjs.com/#N9BNAP)
@@ -15,7 +23,3 @@
 Мой аудиоредактор.
 
 [My AudioEditor on Babylon.js | Babylon.js Playground](https://playground.babylonjs.com/#J4BPMN)
-
-Сделаем аудио из предустановленного текста аудио.
-
-[Audio player with preset audio | Babylon.js Playground](https://playground.babylonjs.com/#RP00JJ)
